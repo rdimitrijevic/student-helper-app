@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StudentHelper</string>
+    <string name="login_name_str">Ime</string>
+    <string name="lname_login_str">Prezime</string>
+    <string name="app_name_str">Student Helper App</string>
+    <string name="pin">PIN</string>
+    <string name="login_btn_str">LogIn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grupa_box_str">Grupa</string>
+    <string name="day_box_str">Dan</string>
+    <string name="title_str">This is some title</string>
+    <string name="body_str">Write content</string>
+    <string name="schedule_nav_item">Schedule</string>
+    <string name="notes_nav_item">Notes</string>
+    <string name="stats_nav_item">Stats</string>
+    <string name="edit_title_str">Write title</string>
+    <string name="cancel_btn_str">Cancel</string>
+    <string name="edit_ok_btn">Ok</string>
+    <string name="edit_text_err_msg">All fields must be filled in!</string>
+    <string name="wrong_pin_err_msg">Wrong pin!</string>
+</resources>
